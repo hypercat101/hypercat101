@@ -1,6 +1,7 @@
 # About Me
 
 Hey, I'm Hyper a developer/programmer currently focused on creating content for **Garry's Mod** and **FiveM**.
+
 Exploring Artificial Intelligence
 
 ---
