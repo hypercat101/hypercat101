@@ -7,13 +7,14 @@
 
 </div>
 
------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%"/>
 
 ## About
 
 Developer from the US focused on FiveM and Garry’s Mod scripting. I build custom resources and tools, and spend a lot of time digging into AI trying to work with it more.
 
------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=header" width="100%"/>
 
 ## Languages
 
@@ -37,20 +38,35 @@ Developer from the US focused on FiveM and Garry’s Mod scripting. I build cust
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pterodactyl/pterodactyl-original.svg" height="40" alt="Pterodactyl" title="Pterodactyl" onerror="this.style.display='none'" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Pterodactyl-19b9d4?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" alt="Pterodactyl" title="Pterodactyl" />
 </p>
 
------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%"/>
 
-## Stats
+## My GitHub in Numbers
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/hypercat101?style=flat-square&logo=github&label=Total%20Stars)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hypercat101&query=public_repos&label=Public%20Repos&style=flat-square&logo=github)
-![Followers](https://img.shields.io/github/followers/hypercat101?style=flat-square&logo=github&label=Followers)
+![GitHub Streak](https://streak-stats.demolab.com?user=hypercat101&theme=tokyonight&hide_border=false&border_radius=10)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hypercat101&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypercat101&layout=compact&theme=tokyonight&hide_border=false&border_radius=10)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=header" width="100%"/>
+
+## My GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hypercat101&theme=tokyonight&no-frame=false&margin-w=10&row=1)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=footer" width="100%"/>
