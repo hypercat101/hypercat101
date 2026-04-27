@@ -107,7 +107,3 @@ Developer from the US focused on FiveM and Garry's Mod scripting. I build custom
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&reversal=true" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=header" width="100%"/>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=footer" width="100%"/>
