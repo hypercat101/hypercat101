@@ -2,7 +2,7 @@
 
 # Hyper
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-HYPERCAT101.XYZ-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hypercat101.xyz/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-HYPERCAT101.COM-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hypercat101.com/)
 [![GitHub followers](https://img.shields.io/github/followers/hypercat101?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/hypercat101)
 
 </div>
